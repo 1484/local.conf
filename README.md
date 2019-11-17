@@ -1,1 +1,2 @@
 # local.conf
+過去のdevstackでは今のsource treeの`samples/local.conf`にあたるexampleが無かったので、会社のdevstack勉強会ドキュメントにこのファイルをcloneして使ってくれと書いておいたのでその残骸。
